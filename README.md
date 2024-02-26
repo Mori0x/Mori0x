@@ -4,7 +4,7 @@
 Hey there! I'm passionate about programming and exploring the world of 3D technology. When I'm not immersed in coding, you might find me strumming on my electric guitar, seeking inspiration for my next project.
 
 ## Skills
-- Programming Languages: Python, JavaScript, SQL
+- Programming Languages: Python, JavaScript, SQL, TypeScript
 - Web Development: HTML/CSS, React, Node.js, Redux, Django
 - 3D Modeling and Animation: Blender, Cinema 4d
 - Version Control: Git, GitHub

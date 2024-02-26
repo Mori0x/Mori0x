@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**Mori0x/Mori0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hey there! I'm passionate about programming and exploring the world of 3D technology. When I'm not immersed in coding, you might find me strumming on my electric guitar, seeking inspiration for my next project.
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: Python, JavaScript, SQL
+- Web Development: HTML/CSS, React, Node.js, Redux, Django
+- 3D Modeling and Animation: Blender, Cinema 4d
+- Version Control: Git, GitHub
+- Data Analysis: NumPy, Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Currently Working On
+- Exploring advanced 3D modeling and animation techniques
+- Developing web applications using React and Node.js
+- Building interactive projects that merge programming and creativity
+
+## Get in Touch
+- 📫 You can reach me via email at [mori0x.off@gmail.com](mailto:mori0x.off@gmail.com)
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/anton-chupreta/)
+
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat!

@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Hey there! I'm passionate about programming and exploring the world of 3D technology. When I'm not immersed in coding, you might find me strumming on my electric guitar, seeking inspiration for my next project.
+Hey there! I'm passionate about programming and exploring the world of 3D technology.
 
 ## Skills
 - Programming Languages: Python, JavaScript, SQL, TypeScript
